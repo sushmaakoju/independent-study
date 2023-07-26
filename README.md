@@ -1,9 +1,19 @@
-# independent-study
+# Independent Study, Summer 2022, University of Colorado Boulder
 
-## Independent Study: Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes
-### Prof. Henry Lovejoy, Digital Slavery Research Lab and Dr. Jane Wall, Faculty Director, Data Science
+## Study and design of NER & Text extraction from OCR scanned Handwritten Slave Trade Volumes
 
-I worked on an Independent Study supervised by Prof. Henry Lovejoy for the Digital Slavery Research Lab, at the University of Colorado, Boulder. It was towards study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents. The goal was to analyze and emancipate both people and present-impressions of the past: <a href="https://www.colorado.edu/lab/dsrl/collaborators">Digital Slavery Research Lab / collaborators</a>.
+#### Supervisors: Prof. Henry Lovejoy, Digital Slavery Research Lab and Dr. Jane Wall, Faculty Director, Data Science
+
+I worked on an Independent Study supervised by Prof. Henry Lovejoy for the Digital Slavery Research Lab, at the University of Colorado, Boulder. It was towards study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents. 
+
+#### Goal
+The novel goal is that of not only emancipating Africans from
+historical events and providing valuable insights, but also seems to indicate
+a shift to emancipate from the present day impressions of the past.
+To analyze and emancipate both people and present-impressions of the past.
+
+Acknowledgements:
+Thanks to the <a href="https://www.colorado.edu/lab/dsrl/collaborators">Digital Slavery Research Lab / collaborators</a>.
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-independent-study-digital-slavery-first_summary_report.pdf"> First report: study and design of Named Entity Extraction from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents<a/>
 
@@ -17,8 +27,8 @@ View the Notebooks for each one of the following:
 
 2. <a href="https://nbviewer.org/github/sushmaakoju/independent-study/blob/main/automated_annotation_layout_parser_segmentation.ipynb"> Zero-shot layout segmentation annotations evaluation</a>
 
-3. <a href="https://nbviewer.org/github/sushmaakoju/independent-study/blob/main/sushma_akoju_july_19_class_A_analysis.ipynb">Text extraction with Google Document AI api and text extraction over class A documents, Slave trade volumes</a>
+3. <a href="https://github.com/sushmaakoju/independent-study/blob/main/sushma_akoju_july_19_class_A_analysis.ipynb">Text extraction with Google Document AI api and text extraction over class **A** documents, Slave trade volumes</a>
 
-4. <a href="https://nbviewer.org/github/sushmaakoju/independent-study/blob/main/sushma_akoju_july_20_class_B_analysis.ipynb">Text extraction with Google Document AI api and text extraction over class **B** documents, Slave trade volumes</a>
+4. <a href="https://github.com/sushmaakoju/independent-study/blob/main/sushma_akoju_july_20_class_B_analysis.ipynb">Text extraction with Google Document AI api and text extraction over class **B** documents, Slave trade volumes</a>
 
-5. <a href="https://nbviewer.org/github/sushmaakoju/independent-study/blob/main/sushma_akoju_pos_analysis.ipynb">IOB tags and Parts-of-speech tags extraction from extracted text from OCR scanned Handwritten Slave Trade Volumes</a>
+5. <a href="https://github.com/sushmaakoju/independent-study/blob/main/sushma_akoju_pos_analysis.ipynb">Annotating IOB tags from Parts-of-speech tags and Named Entities from ground truth over extracted text from OCR scanned Handwritten Slave Trade Volumes</a>
