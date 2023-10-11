@@ -19,7 +19,7 @@ Thanks to the <a href="https://www.colorado.edu/lab/dsrl/collaborators">Digital 
 
 - <a href="https://github.com/sushmaakoju/study-work-reports/blob/main/university-of-colorado-boulder/sushma-akoju-digital-slavery-project-indep_study_final_report.pdf"> Second report: study and design of Named Entity Extraction from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents<a/>
 
-- The challenge here was that Named Entity Recognition needs to run over the text extracted from 19th 19th-century English language text corpus. Performance over BERT under zero-shot settings was poor for 80% of the vocabulary. So we used <a href="https://github.com/sushmaakoju/macberth-eval">MacBERTh</a> model.
+- The challenge here was that Named Entity Recognition needs to run over the text extracted from the 19th-century English language text corpus. Performance over BERT under zero-shot settings was poor for 80% of the vocabulary. So we used <a href="https://github.com/sushmaakoju/macberth-eval">MacBERTh</a> model.
 
 View the Notebooks for each one of the following:
 
